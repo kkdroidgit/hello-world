@@ -1,2 +1,3 @@
 # hello-world
-hello world repositor
+hello world repository
+First Changes
